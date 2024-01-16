@@ -16,7 +16,6 @@ $ python Xdos-server.py
 
 ## Instructions
 - **usage**: python3 Xdos-server.py [-s] [-p] [-t]
- 
 - **h** : help
 - **s** : server ip
 - **p** : port default 80
