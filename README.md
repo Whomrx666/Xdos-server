@@ -15,12 +15,12 @@ $ python Xdos-server.py
 ```
 
 ## Instructions
-usage : python3 Xdos-server.py [-s] [-p] [-t]
-
--h : help
--s : server ip
--p : port default 80
--t : turbo default 135
+- **usage**: python3 Xdos-server.py [-s] [-p] [-t]
+ 
+- **h** : help
+- **s** : server ip
+- **p** : port default 80
+- **t** : turbo default 135
 
 ## Observation
 This is a tool for education only, I am not responsible for any misuse
